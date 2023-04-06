@@ -1,7 +1,3 @@
-Hacer un ansatz solo con Ry. Las compuertas Rz y Rx me introducen complejos que nos complican la vida.
+La suma de todos los valores del coso da 0
 
-Ansatz 1: Armar estados de Bell, Ry line, CNOT lineal, Ry line
 
-Ansatz 2: 
-
-Ansatz 3:
