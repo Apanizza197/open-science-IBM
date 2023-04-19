@@ -78,7 +78,7 @@ def create_ansatz_cry(num_qubits, layers = 1):
             j += 1
     return qc
 
-def create_ansatz(num_qubits, layers):
+def create_ansatz_cry_cnot(num_qubits, layers):
     qc = QuantumCircuit(num_qubits)
     j = 0
     for layer in range(layers):
